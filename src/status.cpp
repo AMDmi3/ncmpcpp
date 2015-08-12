@@ -21,6 +21,7 @@
 #include <boost/date_time/posix_time/posix_time.hpp>
 #include <netinet/tcp.h>
 #include <netinet/in.h>
+#include <sys/socket.h>
 
 #include "browser.h"
 #include "charset.h"
